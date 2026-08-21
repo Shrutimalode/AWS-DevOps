@@ -123,13 +123,13 @@ Cloud Computing
       ↓
 AWS Global Infrastructure
       ↓
-EC2
+     EC2
       ↓
-EBS
+     EBS
       ↓
-AMI
+     AMI
       ↓
-S3
+     S3
 
 
 
