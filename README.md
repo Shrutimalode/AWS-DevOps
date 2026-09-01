@@ -103,6 +103,26 @@ Learn about **Amazon S3 (Simple Storage Service)**, including:
 
 ---
 
+### 08. 🔐 IAM
+Learn about **AWS Identity and Access Management (IAM)**, including:
+
+- IAM overview
+- IAM Users
+- IAM User Groups
+- IAM Policies
+- AWS Managed Policies
+- Customer Managed Policies
+- Inline Policies
+- IAM Roles
+- Root User
+- Authentication & Authorization
+- Creating IAM Users
+- IAM best practices
+
+👉 [Read IAM Notes](./08.%20IAM.md)
+
+---
+
 ## 🎯 Purpose
 
 The main purpose of this repository is to maintain my **AWS & DevOps learning journey** in one place and create a useful reference for:
